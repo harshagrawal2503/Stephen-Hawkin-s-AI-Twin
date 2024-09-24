@@ -2,6 +2,8 @@
 
 This project creates a chatbot API that simulates an AI twin of Stephen Hawking using the GIAI AI and Llama model. The AI focuses on quantum cosmology and responds to queries related to the cosmos and related scientific topics.
 
+Check Live Url : https://stephen-hawkins-ai-twin.vercel.app/
+
 ## Features
 
 - AI model (Llama) designed to simulate responses from Stephen Hawking's perspective in the field of quantum cosmology.
